@@ -14,23 +14,23 @@ Benefits of making apps for foldable smartphones:
 App development has changed as a result of foldable smartphones. It has given you full access to experiment with new things in order to attract users' interest and deliver a top-notch experience. Because foldable smartphones provide you with a variety of displays to experiment with brand-new concepts, developers have better options to supply customers with something exceptional. Foldable phones will also allow video streaming applications to take benefit of the large screen size in order to play videos on a larger screen. Similarly, calendar applications can display a complete month rather than a week. More capabilities may be added to news and business applications such as emails or reading a document or article to make them more efficient.
 
 ## Things to consider while developing apps for foldable devices:
-###### 1. Building For Both Folded And Unfolded Screen:
-   The foldable phone has two states- folded and unfolded. The first will show a cover display, while the second will show the app's main display.
+### 1. Building For Both Folded And Unfolded Screen:
+       The foldable phone has two states- folded and unfolded. The first will show a cover display, while the second will show the app's main display.
 
-###### 2. App Continuity:
-   It is important to check if the screen provides a smooth, continuous, and consistent user experience in both folded and unfolded modes while developing the apps.    Developers must focus on resizing the on-screen content.
+### 2. App Continuity:
+       It is important to check if the screen provides a smooth, continuous, and consistent user experience in both folded and unfolded modes while developing the          apps. Developers must focus on resizing the on-screen content.
 
-###### 3. Multitasking For Multiple Windows:
-   Users can get various advantages by using foldable devices. Widescreen foldable phones have a lot of potential for multitasking. Presenting the multiple layers      of information and performing multiple tasks can be done whether the available window is folded or the space available is in an unfolded state.
+### 3. Multitasking For Multiple Windows:
+       Users can get various advantages by using foldable devices. Widescreen foldable phones have a lot of potential for multitasking. Presenting the multiple            layers of information and performing multiple tasks can be done whether the available window is folded or the space available is in an unfolded state.
 
-###### 4. Running Several Apps Across Multiple Windows:
-   We already know that two apps can be run side by side. So it is imperative to have multiple apps running side by side especially when the phone is expanded to      its larger size.
+### 4. Running Several Apps Across Multiple Windows:
+       We already know that two apps can be run side by side. So it is imperative to have multiple apps running side by side especially when the phone is expanded          to its larger size.
 
-###### 5. Maintaining Perfect Screen Ratios:
-   It is imperative to maintain a perfect screen ratio while developing folding devices. Because the screen size is different for folded and unfolded states. In a      folded state, the aspect ratio adjusts for the high long screen size and unfolded state the aspect ratio adjusts for the landscape viewing.
+### 5. Maintaining Perfect Screen Ratios:
+       It is imperative to maintain a perfect screen ratio while developing folding devices. Because the screen size is different for folded and unfolded states. In a      folded state, the aspect ratio adjusts for the high long screen size and unfolded state the aspect ratio adjusts for the landscape viewing.
    
- ###### 6. Foldable Testing:
-   It is important to test foldable devices in multiple environments like configuration changes, multi-window and multi-resume, resizing and new screen ratios.
+ ### 6. Foldable Testing: 
+        It is important to test foldable devices in multiple environments like configuration changes, multi-window and multi-resume, resizing and new screen ratios.
 
 With the increasing popularity of foldable devices, there is no question that the need for mobile app development for such devices will rise in the future.
 So this is the right time to take benefit from this technology.
